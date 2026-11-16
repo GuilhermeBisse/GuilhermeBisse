@@ -15,7 +15,7 @@
 ## 🧠 Sobre mim
 
 - 🎓 Estudante, com foco em **Inteligência Artificial e Ciência de Dados**
-- 🔭 Pesquisador na área de **aprendizado de máquina ** e **visão computacional**
+- 🔭 Pesquisador na área de **aprendizado de máquina** e **visão computacional**
 - 🌱 Aprendendo agora: LLMs, agentes de IA, RAG
 - ⚡ Gosto muito de mexer com tecnologia e aprendo muito rápido
 
