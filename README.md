@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/guilherme-bisse"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/guilherme-bisse"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/GuilhermeBisse?tab=repositories"><img src="https://img.shields.io/badge/Projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projetos"/></a>
   <a href="https://www.kaggle.com/guibisse"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 </p>
